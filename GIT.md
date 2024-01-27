@@ -63,12 +63,18 @@
 14.What is merging?
     *Git marge will help to combine the changes from two or more branches into a single branch. Developers will work on different branches to improve code or to develop the code after completion we can merge them into a single version of the code.
     *[refer for more..](https://www.geeksforgeeks.org/git-merge/)
+
+    
 15.What are merge conflicts?
     *Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
     *[refer for more..](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)
+
+    
 16.What is stashing?
     *The Git stash command can be used to accomplish this if a developer is working on a project and wants to preserve the changes without committing them. This will allow him to switch branches and work on other projects without affecting the existing modifications. You can roll back modifications whenever necessary, and it stores the current state and rolls back developers to a prior state.
     *[refer for more..](https://www.geeksforgeeks.org/git-working-with-stash/)
+    
+    
 17.What is git pull? What is git push? Diff between them.
     *git pull is one of many commands that claim the responsibility of 'syncing' remote content. The git remote command is used to specify what remote endpoints the syncing commands will operate on.
     *The git push command is used to upload content to a remote repository. The git fetch command can be confused with git pull .
