@@ -35,11 +35,15 @@
 7.What is commit messages? And what is called as proper commit message?
     *Commit messages are a way of communication between team members. Let’s say there’s a bug in the application which was not there before. To find out what caused the problem, reading the commit messages could be handy. The proper commit message can save a great deal of time finding the recent changes related to a bug.
     [refer for more details](https://reflectoring.io/meaningful-commit-messages/#:~:text=Commit%20messages%20are%20a%20way,changes%20related%20to%20a%20bug.)
+
+    
     
 8.Learn how to add remote origin.
     * git remote add origin https://github.com/OWNER/REPOSITORY.git
     * git remote -v
     * [refer for more in git documantation](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+
+    
 9.Learn how to check for existing remote origin added.
     * git remote -v
 
@@ -51,6 +55,8 @@
 
 11.How to check existing user config details.
     *git config --list
+
+    
 12.What is a branch?
     *A branch is a version of the repository that diverges from the main working project.
     *[refer for more..](https://www.javatpoint.com/git-branch)
@@ -59,8 +65,10 @@
     *git branch <branch_name>
     *git checkout <other_branch_name>
     *git switch <other_branc_name> #both do same work
+    
 
 14.What is merging?
+    
     *Git marge will help to combine the changes from two or more branches into a single branch. Developers will work on different branches to improve code or to develop the code after completion we can merge them into a single version of the code.
     *[refer for more..](https://www.geeksforgeeks.org/git-merge/)
 
